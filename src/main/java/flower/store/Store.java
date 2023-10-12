@@ -1,7 +1,7 @@
 package flower.store;
 import java.util.List;
 import java.util.ArrayList;
-import flower.filters.SearchFilter;;
+import flower.filters.SearchFilter;
 
 public class Store {
     private List<Item> items;
