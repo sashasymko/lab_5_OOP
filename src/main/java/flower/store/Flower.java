@@ -18,7 +18,7 @@ public class Flower {
         this.sepalLength = flower.sepalLength;
         this.color = flower.color;
     }
-    public void setPrice(int price) {
+    public void setPrice(final int price) {
         this.price = price;
     }
     public String getColor() {
